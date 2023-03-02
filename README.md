@@ -1,4 +1,24 @@
-### Hi there 👋
+
+
+<div align=center>
+  
+  
+  # 👋 Hello 
+  
+  
+  ## ✏️ Studying
+  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  
+  
+  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylee5036)](https://github.com/kylee5036/github-readme-stats)
+</div>
+
+
+
 
 <!--
 **kyLee5036/kyLee5036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
