@@ -15,8 +15,6 @@
   <br />
   <br />
   <br />
-  <br />
-  <br />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylee5036)](https://github.com/kylee5036/github-readme-stats)
 </div>
