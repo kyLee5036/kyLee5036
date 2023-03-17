@@ -1,10 +1,6 @@
-
-
 <div align=center>
   
-  
   # 👋 Hello 
-  
   
   ## ✏️ Studying 
   
